@@ -37,7 +37,7 @@ Global hidden variables. It portrays the presence or absence of other mutations 
 **DEGBOE is applied to model occurrences and the evolution of somatic mutations as well as the mutation rates of the EGFR, KRAS, and TP53 lung cancer gene mutations.**
 
 # Implementation
-Use R code lung cancer binary dataset preprocessing
-Use Matlab for DEGBOE implementation
+**-** Use R code lung cancer binary dataset preprocessing
+**-** Use Matlab for DEGBOE implementation
 
 
