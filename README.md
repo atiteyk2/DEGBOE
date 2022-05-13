@@ -39,5 +39,5 @@ Global hidden variables. It portrays the presence or absence of other mutations 
 # Implementation
 Use R code lung cancer binary dataset preprocessing
 Use Matlab for DEGBOE implementation
-![image](https://user-images.githubusercontent.com/105511642/168333745-ec6fd266-da60-4d4c-b044-1e9086d46c1e.png)
+
 
