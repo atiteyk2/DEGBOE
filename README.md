@@ -4,7 +4,7 @@
 **Many direct and indirect methods have been developed to help estimate occurrences and progression of somatic mutations in various organisms. The main difficulty in estimating rates of mutation involves the fact that DNA changes are extremely rare events which can only be detected on a background of identical DNA. On the Basis of the probabilistic graphical model of Bayesian network, this work presents a computational framework which describes the variability in the evolution of the lung cancer gene mutations as a long-term dependent process. The relation between a targeted gene mutation with other gene mutations is examined.**
  
 
-# A quick look to the DEGBOE computational framework
+# DEGBOE computational framework
 ![](figure/Fig_1.png)
 
 
